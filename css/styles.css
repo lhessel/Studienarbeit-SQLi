@@ -1,0 +1,22 @@
+.row {
+	margin-top: 20px;
+}
+
+.debug {
+	background: lightgrey;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 50px 0 0 0;
+}
+
+.error,
+.info {
+	background: lightblue;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 50px 0 0 0;
+}
+
+.info {
+	margin: 0;
+}
